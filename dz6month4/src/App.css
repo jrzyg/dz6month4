@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+
+}
+
+form {
+  max-width: 200px;
+  margin: 60px auto;
+  background: rgba(45, 56, 63, 0.3)
+}
+
+label {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 30px;
+}
+input {
+  outline: none;
+  border-radius: 7px;
+}
+.error {
+  border: 1px solid red;
+}
+table {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+button {
+  margin-left: 20px;
+
+  border-radius: 7px;
+}
